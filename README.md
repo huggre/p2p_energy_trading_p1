@@ -202,8 +202,6 @@ while True:
     sleep(1)
 ```
 
-<iframe src="https://medium.com/media/b50866716143763ee2aebce97a1401d1" allowfullscreen="" frameborder="0" height="2168" width="680" title="Python code for the &quot;Solar Economy Part 1&quot; tutorial" class="s t u dq ai" scrolling="auto" style="box-sizing: inherit; position: absolute; top: 0px; left: 0px; width: 680px; height: 2167.98px;"></iframe>
-
 You can download the code from [here](https://gist.github.com/huggre/23a2db302eb7adb8b7e71fe3dc7e06cf)
 
 ------
